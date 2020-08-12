@@ -32,4 +32,4 @@ Software
 All software will be released as open source in the form of an Arduino library and example sketches.
 
 
-Contact: david at evsaresexy dot com or http://www.evsaresexy.com
+Contact: david (dot) wahl at gmail dot com
