@@ -18,7 +18,7 @@ Current features:
 
 Future features:
 * External balance headers to support higher charging/balancing current
-* PWM Charger control
+* Charger control
 * Expandable up to 192 cells in series (~700V)
 * Electrically isolated communications
 * Data logging to microSD card
